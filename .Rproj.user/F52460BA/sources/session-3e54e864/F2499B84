@@ -1,0 +1,26 @@
+{
+    "id": "F2499B84",
+    "path": "~/R/testing_add_to_version_control/1=1.R",
+    "project_path": "1=1.R",
+    "type": "r_source",
+    "hash": "4249267174",
+    "contents": "",
+    "dirty": false,
+    "created": 1680339616834.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,3",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680339635,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680339635158,
+    "read_only": false,
+    "read_only_alternatives": []
+}
